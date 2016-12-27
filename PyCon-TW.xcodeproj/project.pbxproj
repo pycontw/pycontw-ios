@@ -28,7 +28,7 @@
 		DB77FCF31E06696700504869 /* ReceiveLocalNotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FC681E06696600504869 /* ReceiveLocalNotificationManager.swift */; };
 		DB77FCF41E06696700504869 /* TalkObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FC6B1E06696600504869 /* TalkObject.swift */; };
 		DB77FCF51E06696700504869 /* Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FC6D1E06696600504869 /* Language.swift */; };
-		DB77FCF61E06696700504869 /* PyConJPDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FC6E1E06696600504869 /* PyConJPDate.swift */; };
+		DB77FCF61E06696700504869 /* PyConTWDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FC6E1E06696600504869 /* PyConTWDate.swift */; };
 		DB77FCF71E06696700504869 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FC6F1E06696600504869 /* Result.swift */; };
 		DB77FCF81E06696700504869 /* Room.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FC701E06696600504869 /* Room.swift */; };
 		DB77FCF91E06696700504869 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FC721E06696600504869 /* Category.swift */; };
@@ -91,9 +91,9 @@
 		DB77FD361E06696700504869 /* StaffListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FCDD1E06696700504869 /* StaffListViewController.swift */; };
 		DB77FD371E06696700504869 /* PCJWKWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FCDF1E06696700504869 /* PCJWKWebViewController.swift */; };
 		DB77FD3B1E06697600504869 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DB77FD391E06697600504869 /* Info.plist */; };
-		DB77FD3C1E06697600504869 /* PyCon-JPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FD3A1E06697600504869 /* PyCon-JPTests.swift */; };
+		DB77FD3C1E06697600504869 /* PyCon-TWTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FD3A1E06697600504869 /* PyCon-TWTests.swift */; };
 		DB77FD401E06698100504869 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DB77FD3E1E06698100504869 /* Info.plist */; };
-		DB77FD411E06698100504869 /* PyCon-JPUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FD3F1E06698100504869 /* PyCon-JPUITests.swift */; };
+		DB77FD411E06698100504869 /* PyCon-TWUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FD3F1E06698100504869 /* PyCon-TWUITests.swift */; };
 		DB77FD531E06720D00504869 /* WebAPIFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB77FD4A1E06720C00504869 /* WebAPIFramework.framework */; };
 		DB77FD5A1E06720D00504869 /* WebAPIFrameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77FD591E06720D00504869 /* WebAPIFrameworkTests.swift */; };
 		DB77FD5C1E06720D00504869 /* WebAPIFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = DB77FD4C1E06720C00504869 /* WebAPIFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -131,7 +131,7 @@
 			containerPortal = DBA1C0A11C7228E2004F0C8D /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DBA1C0A81C7228E2004F0C8D;
-			remoteInfo = "PyCon-JP";
+			remoteInfo = "PyCon-TW";
 		};
 		DB77FD5D1E06720D00504869 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -145,14 +145,14 @@
 			containerPortal = DBA1C0A11C7228E2004F0C8D /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DBA1C0A81C7228E2004F0C8D;
-			remoteInfo = PyConJP2016;
+			remoteInfo = PyConTW2017777777;
 		};
 		DBA1C0C91C7228E2004F0C8D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = DBA1C0A11C7228E2004F0C8D /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = DBA1C0A81C7228E2004F0C8D;
-			remoteInfo = PyConJP2016;
+			remoteInfo = PyConTW2017;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -196,7 +196,7 @@
 		DB77FC681E06696600504869 /* ReceiveLocalNotificationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReceiveLocalNotificationManager.swift; sourceTree = "<group>"; };
 		DB77FC6B1E06696600504869 /* TalkObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TalkObject.swift; sourceTree = "<group>"; };
 		DB77FC6D1E06696600504869 /* Language.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Language.swift; sourceTree = "<group>"; };
-		DB77FC6E1E06696600504869 /* PyConJPDate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PyConJPDate.swift; sourceTree = "<group>"; };
+		DB77FC6E1E06696600504869 /* PyConTWDate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PyConTWDate.swift; sourceTree = "<group>"; };
 		DB77FC6F1E06696600504869 /* Result.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
 		DB77FC701E06696600504869 /* Room.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Room.swift; sourceTree = "<group>"; };
 		DB77FC721E06696600504869 /* Category.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
@@ -273,9 +273,9 @@
 		DB77FCDD1E06696700504869 /* StaffListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StaffListViewController.swift; sourceTree = "<group>"; };
 		DB77FCDF1E06696700504869 /* PCJWKWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PCJWKWebViewController.swift; sourceTree = "<group>"; };
 		DB77FD391E06697600504869 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DB77FD3A1E06697600504869 /* PyCon-JPTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PyCon-JPTests.swift"; sourceTree = "<group>"; };
+		DB77FD3A1E06697600504869 /* PyCon-TWTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PyCon-TWTests.swift"; sourceTree = "<group>"; };
 		DB77FD3E1E06698100504869 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DB77FD3F1E06698100504869 /* PyCon-JPUITests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PyCon-JPUITests.swift"; sourceTree = "<group>"; };
+		DB77FD3F1E06698100504869 /* PyCon-TWUITests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PyCon-TWUITests.swift"; sourceTree = "<group>"; };
 		DB77FD431E066D2800504869 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DB77FD4A1E06720C00504869 /* WebAPIFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = WebAPIFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB77FD4C1E06720C00504869 /* WebAPIFramework.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WebAPIFramework.h; sourceTree = "<group>"; };
@@ -291,9 +291,9 @@
 		DB77FD741E06847A00504869 /* TalksAPIProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TalksAPIProtocol.swift; sourceTree = "<group>"; };
 		DB77FD781E0684C200504869 /* RealmTalkDetailProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RealmTalkDetailProtocol.swift; sourceTree = "<group>"; };
 		DB8028AD1D81D0A300A4818A /* AlamofireImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AlamofireImage.framework; path = Carthage/Build/iOS/AlamofireImage.framework; sourceTree = "<group>"; };
-		DBA1C0A91C7228E2004F0C8D /* PyCon-JP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PyCon-JP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DBA1C0BD1C7228E2004F0C8D /* PyCon-JPTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "PyCon-JPTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DBA1C0C81C7228E2004F0C8D /* PyCon-JPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "PyCon-JPUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBA1C0A91C7228E2004F0C8D /* PyCon-TW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PyCon-TW.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBA1C0BD1C7228E2004F0C8D /* PyCon-TWTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "PyCon-TWTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBA1C0C81C7228E2004F0C8D /* PyCon-TWUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "PyCon-TWUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBC72D121D6F0B0C008DF718 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
 		DBC72D131D6F0B0C008DF718 /* Realm.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Realm.framework; path = Carthage/Build/iOS/Realm.framework; sourceTree = "<group>"; };
 		DBC72D141D6F0B0C008DF718 /* RealmSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RealmSwift.framework; path = Carthage/Build/iOS/RealmSwift.framework; sourceTree = "<group>"; };
@@ -359,7 +359,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		DB77FC491E06696600504869 /* PyCon-JP */ = {
+		DB77FC491E06696600504869 /* PyCon-TW */ = {
 			isa = PBXGroup;
 			children = (
 				DB77FC4A1E06696600504869 /* Application */,
@@ -376,7 +376,7 @@
 				DB77FD421E066CFE00504869 /* Support Files */,
 				DB77FC4E1E06696600504869 /* Assets.xcassets */,
 			);
-			path = "PyCon-JP";
+			path = "PyCon-TW";
 			sourceTree = "<group>";
 		};
 		DB77FC4A1E06696600504869 /* Application */ = {
@@ -501,7 +501,7 @@
 			isa = PBXGroup;
 			children = (
 				DB77FC6D1E06696600504869 /* Language.swift */,
-				DB77FC6E1E06696600504869 /* PyConJPDate.swift */,
+				DB77FC6E1E06696600504869 /* PyConTWDate.swift */,
 				DB77FC6F1E06696600504869 /* Result.swift */,
 				DB77FC701E06696600504869 /* Room.swift */,
 			);
@@ -699,22 +699,22 @@
 			path = WebView;
 			sourceTree = "<group>";
 		};
-		DB77FD381E06697600504869 /* PyCon-JPTests */ = {
+		DB77FD381E06697600504869 /* PyCon-TWTests */ = {
 			isa = PBXGroup;
 			children = (
 				DB77FD391E06697600504869 /* Info.plist */,
-				DB77FD3A1E06697600504869 /* PyCon-JPTests.swift */,
+				DB77FD3A1E06697600504869 /* PyCon-TWTests.swift */,
 			);
-			path = "PyCon-JPTests";
+			path = "PyCon-TWTests";
 			sourceTree = "<group>";
 		};
-		DB77FD3D1E06698100504869 /* PyCon-JPUITests */ = {
+		DB77FD3D1E06698100504869 /* PyCon-TWUITests */ = {
 			isa = PBXGroup;
 			children = (
 				DB77FD3E1E06698100504869 /* Info.plist */,
-				DB77FD3F1E06698100504869 /* PyCon-JPUITests.swift */,
+				DB77FD3F1E06698100504869 /* PyCon-TWUITests.swift */,
 			);
-			path = "PyCon-JPUITests";
+			path = "PyCon-TWUITests";
 			sourceTree = "<group>";
 		};
 		DB77FD421E066CFE00504869 /* Support Files */ = {
@@ -767,9 +767,9 @@
 		DBA1C0A01C7228E2004F0C8D = {
 			isa = PBXGroup;
 			children = (
-				DB77FC491E06696600504869 /* PyCon-JP */,
-				DB77FD381E06697600504869 /* PyCon-JPTests */,
-				DB77FD3D1E06698100504869 /* PyCon-JPUITests */,
+				DB77FC491E06696600504869 /* PyCon-TW */,
+				DB77FD381E06697600504869 /* PyCon-TWTests */,
+				DB77FD3D1E06698100504869 /* PyCon-TWUITests */,
 				DB77FD4B1E06720C00504869 /* WebAPIFramework */,
 				DB77FD581E06720D00504869 /* WebAPIFrameworkTests */,
 				DBA1C0AA1C7228E2004F0C8D /* Products */,
@@ -780,9 +780,9 @@
 		DBA1C0AA1C7228E2004F0C8D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DBA1C0A91C7228E2004F0C8D /* PyCon-JP.app */,
-				DBA1C0BD1C7228E2004F0C8D /* PyCon-JPTests.xctest */,
-				DBA1C0C81C7228E2004F0C8D /* PyCon-JPUITests.xctest */,
+				DBA1C0A91C7228E2004F0C8D /* PyCon-TW.app */,
+				DBA1C0BD1C7228E2004F0C8D /* PyCon-TWTests.xctest */,
+				DBA1C0C81C7228E2004F0C8D /* PyCon-TWUITests.xctest */,
 				DB77FD4A1E06720C00504869 /* WebAPIFramework.framework */,
 				DB77FD521E06720D00504869 /* WebAPIFrameworkTests.xctest */,
 			);
@@ -840,9 +840,9 @@
 			productReference = DB77FD521E06720D00504869 /* WebAPIFrameworkTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		DBA1C0A81C7228E2004F0C8D /* PyCon-JP */ = {
+		DBA1C0A81C7228E2004F0C8D /* PyCon-TW */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DBA1C0D11C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-JP" */;
+			buildConfigurationList = DBA1C0D11C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-TW" */;
 			buildPhases = (
 				DBA1C0A51C7228E2004F0C8D /* Sources */,
 				DBA1C0A61C7228E2004F0C8D /* Frameworks */,
@@ -856,14 +856,14 @@
 			dependencies = (
 				DB77FD5E1E06720D00504869 /* PBXTargetDependency */,
 			);
-			name = "PyCon-JP";
-			productName = PyConJP2016;
-			productReference = DBA1C0A91C7228E2004F0C8D /* PyCon-JP.app */;
+			name = "PyCon-TW";
+			productName = PyConTW2017;
+			productReference = DBA1C0A91C7228E2004F0C8D /* PyCon-TW.app */;
 			productType = "com.apple.product-type.application";
 		};
-		DBA1C0BC1C7228E2004F0C8D /* PyCon-JPTests */ = {
+		DBA1C0BC1C7228E2004F0C8D /* PyCon-TWTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DBA1C0D41C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-JPTests" */;
+			buildConfigurationList = DBA1C0D41C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-TWTests" */;
 			buildPhases = (
 				DBA1C0B91C7228E2004F0C8D /* Sources */,
 				DBA1C0BA1C7228E2004F0C8D /* Frameworks */,
@@ -874,14 +874,14 @@
 			dependencies = (
 				DBA1C0BF1C7228E2004F0C8D /* PBXTargetDependency */,
 			);
-			name = "PyCon-JPTests";
-			productName = PyConJP2016Tests;
-			productReference = DBA1C0BD1C7228E2004F0C8D /* PyCon-JPTests.xctest */;
+			name = "PyCon-TWTests";
+			productName = PyConTW2017Tests;
+			productReference = DBA1C0BD1C7228E2004F0C8D /* PyCon-TWTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		DBA1C0C71C7228E2004F0C8D /* PyCon-JPUITests */ = {
+		DBA1C0C71C7228E2004F0C8D /* PyCon-TWUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DBA1C0D71C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-JPUITests" */;
+			buildConfigurationList = DBA1C0D71C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-TWUITests" */;
 			buildPhases = (
 				DBA1C0C41C7228E2004F0C8D /* Sources */,
 				DBA1C0C51C7228E2004F0C8D /* Frameworks */,
@@ -892,9 +892,9 @@
 			dependencies = (
 				DBA1C0CA1C7228E2004F0C8D /* PBXTargetDependency */,
 			);
-			name = "PyCon-JPUITests";
-			productName = PyConJP2016UITests;
-			productReference = DBA1C0C81C7228E2004F0C8D /* PyCon-JPUITests.xctest */;
+			name = "PyCon-TWUITests";
+			productName = PyConTW2017UITests;
+			productReference = DBA1C0C81C7228E2004F0C8D /* PyCon-TWUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -935,7 +935,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DBA1C0A41C7228E2004F0C8D /* Build configuration list for PBXProject "PyCon-JP" */;
+			buildConfigurationList = DBA1C0A41C7228E2004F0C8D /* Build configuration list for PBXProject "PyCon-TW" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -949,9 +949,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DBA1C0A81C7228E2004F0C8D /* PyCon-JP */,
-				DBA1C0BC1C7228E2004F0C8D /* PyCon-JPTests */,
-				DBA1C0C71C7228E2004F0C8D /* PyCon-JPUITests */,
+				DBA1C0A81C7228E2004F0C8D /* PyCon-TW */,
+				DBA1C0BC1C7228E2004F0C8D /* PyCon-TWTests */,
+				DBA1C0C71C7228E2004F0C8D /* PyCon-TWUITests */,
 				DB77FD491E06720C00504869 /* WebAPIFramework */,
 				DB77FD511E06720D00504869 /* WebAPIFrameworkTests */,
 			);
@@ -1115,7 +1115,7 @@
 				DB77FD341E06696700504869 /* MapViewController.swift in Sources */,
 				DB77FCEA1E06696700504869 /* ArrayExtension.swift in Sources */,
 				DB77FCFF1E06696700504869 /* TalkDetail.swift in Sources */,
-				DB77FCF61E06696700504869 /* PyConJPDate.swift in Sources */,
+				DB77FCF61E06696700504869 /* PyConTWDate.swift in Sources */,
 				DB77FCF31E06696700504869 /* ReceiveLocalNotificationManager.swift in Sources */,
 				DB77FCE81E06696700504869 /* TimelineDataSource.swift in Sources */,
 				DB77FD2E1E06696700504869 /* ConferenceViewController.swift in Sources */,
@@ -1147,7 +1147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB77FD3C1E06697600504869 /* PyCon-JPTests.swift in Sources */,
+				DB77FD3C1E06697600504869 /* PyCon-TWTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1155,7 +1155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB77FD411E06698100504869 /* PyCon-JPUITests.swift in Sources */,
+				DB77FD411E06698100504869 /* PyCon-TWUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1169,7 +1169,7 @@
 		};
 		DB77FD571E06720D00504869 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DBA1C0A81C7228E2004F0C8D /* PyCon-JP */;
+			target = DBA1C0A81C7228E2004F0C8D /* PyCon-TW */;
 			targetProxy = DB77FD561E06720D00504869 /* PBXContainerItemProxy */;
 		};
 		DB77FD5E1E06720D00504869 /* PBXTargetDependency */ = {
@@ -1179,12 +1179,12 @@
 		};
 		DBA1C0BF1C7228E2004F0C8D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DBA1C0A81C7228E2004F0C8D /* PyCon-JP */;
+			target = DBA1C0A81C7228E2004F0C8D /* PyCon-TW */;
 			targetProxy = DBA1C0BE1C7228E2004F0C8D /* PBXContainerItemProxy */;
 		};
 		DBA1C0CA1C7228E2004F0C8D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DBA1C0A81C7228E2004F0C8D /* PyCon-JP */;
+			target = DBA1C0A81C7228E2004F0C8D /* PyCon-TW */;
 			targetProxy = DBA1C0C91C7228E2004F0C8D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1414,7 +1414,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PyCon-JP.app/PyCon-JP";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PyCon-TW.app/PyCon-TW";
 			};
 			name = Debug;
 		};
@@ -1431,7 +1431,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = jp.pycon.WebAPIFrameworkTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PyCon-JP.app/PyCon-JP";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PyCon-TW.app/PyCon-TW";
 			};
 			name = Release;
 		};
@@ -1537,7 +1537,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/PyCon-JP/Support Files/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/PyCon-TW/Support Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.pycon.pyconjp;
@@ -1560,7 +1560,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
-				INFOPLIST_FILE = "$(SRCROOT)/PyCon-JP/Support Files/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/PyCon-TW/Support Files/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.pycon.pyconjp;
@@ -1576,12 +1576,12 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = PyConJP2016Tests/Info.plist;
+				INFOPLIST_FILE = PyConTW2017Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = yutaro.PyConJP2016Tests;
+				PRODUCT_BUNDLE_IDENTIFIER = yutaro.PyConTW2017Tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PyCon-JP.app/PyCon-JP";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PyCon-TW.app/PyCon-TW";
 			};
 			name = Debug;
 		};
@@ -1590,12 +1590,12 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				INFOPLIST_FILE = PyConJP2016Tests/Info.plist;
+				INFOPLIST_FILE = PyConTW2017Tests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = yutaro.PyConJP2016Tests;
+				PRODUCT_BUNDLE_IDENTIFIER = yutaro.PyConTW2017Tests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PyCon-JP.app/PyCon-JP";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PyCon-TW.app/PyCon-TW";
 			};
 			name = Release;
 		};
@@ -1603,12 +1603,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				INFOPLIST_FILE = PyConJP2016UITests/Info.plist;
+				INFOPLIST_FILE = PyConTW2017UITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = yutaro.PyConJP2016UITests;
+				PRODUCT_BUNDLE_IDENTIFIER = yutaro.PyConTW2017UITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = PyConJP2016;
+				TEST_TARGET_NAME = PyConTW2017;
 				USES_XCTRUNNER = YES;
 			};
 			name = Debug;
@@ -1617,12 +1617,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				INFOPLIST_FILE = PyConJP2016UITests/Info.plist;
+				INFOPLIST_FILE = PyConTW2017UITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = yutaro.PyConJP2016UITests;
+				PRODUCT_BUNDLE_IDENTIFIER = yutaro.PyConTW2017UITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_TARGET_NAME = PyConJP2016;
+				TEST_TARGET_NAME = PyConTW2017;
 				USES_XCTRUNNER = YES;
 			};
 			name = Release;
@@ -1637,6 +1637,7 @@
 				DB77FD631E06720D00504869 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DB77FD641E06720D00504869 /* Build configuration list for PBXNativeTarget "WebAPIFrameworkTests" */ = {
 			isa = XCConfigurationList;
@@ -1645,8 +1646,9 @@
 				DB77FD661E06720D00504869 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		DBA1C0A41C7228E2004F0C8D /* Build configuration list for PBXProject "PyCon-JP" */ = {
+		DBA1C0A41C7228E2004F0C8D /* Build configuration list for PBXProject "PyCon-TW" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DBA1C0CF1C7228E2004F0C8D /* Debug */,
@@ -1655,7 +1657,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DBA1C0D11C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-JP" */ = {
+		DBA1C0D11C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-TW" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DBA1C0D21C7228E2004F0C8D /* Debug */,
@@ -1664,7 +1666,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DBA1C0D41C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-JPTests" */ = {
+		DBA1C0D41C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-TWTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DBA1C0D51C7228E2004F0C8D /* Debug */,
@@ -1673,7 +1675,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DBA1C0D71C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-JPUITests" */ = {
+		DBA1C0D71C7228E2004F0C8D /* Build configuration list for PBXNativeTarget "PyCon-TWUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DBA1C0D81C7228E2004F0C8D /* Debug */,
